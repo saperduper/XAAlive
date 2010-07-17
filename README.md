@@ -1,14 +1,12 @@
-Python twitter bot with updates on the ATHEX COMPOSITE index of the Athens Stock Exchange
+*Python twitter bot with updates on the ATHEX COMPOSITE index of the Athens Stock Exchange*
 
-needs:
-------
+_needs:_
 
-* [python-twitter](http://code.google.com/p/python-twitter/)
-* [BeautifulSoup](http://code.google.com/p/python-twitter/)
+[python-twitter](http://code.google.com/p/python-twitter/)
+[BeautifulSoup](http://www.crummy.com/software/BeautifulSoup/)
 
 
-data from:
-----------
+_data from:_
 
 [www.axiaplus.gr](www.axiaplus.gr)
 
